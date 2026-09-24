@@ -5,7 +5,7 @@
 
 ## 第一次安裝
 
-1. 到 [Releases](https://github.com/qqfat/hslr-mods/releases) 下載最新的全套安裝包 `HSLR_Mods_BepInEx_<日期>.zip`。
+1. 下載全套安裝包 [HSLR_Mods_BepInEx_20260925.zip](https://github.com/qqfat/hslr-mods/releases/download/full-20260925/HSLR_Mods_BepInEx_20260925.zip)（37.7 MB，2026-09-25），內含 BepInEx 與全部 MOD（包括程式模組管理）。
 2. 在 Steam 對「幻世錄 Remake」按右鍵 → 管理 → 瀏覽本機檔案，把 zip 解壓縮到打開的資料夾（跟 `HSLR.exe` 同一層）。
 3. 啟動遊戲。第一次啟動 BepInEx 要準備檔案，會多等約 30 秒。
 
