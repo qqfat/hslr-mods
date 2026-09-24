@@ -1,0 +1,162 @@
+{
+  "schema": 1,
+  "generated": "2026-09-25T02:05:03+08:00",
+  "repo": "qqfat/hslr-mods",
+  "mods": [
+    {
+      "key": "FastLoad",
+      "guid": "hslr.fastload",
+      "folder": "HslrFastLoad",
+      "title": "讀檔加速",
+      "summary": "讀檔寫死的等待歸零、淡入淡出縮短",
+      "version": "0.5.1",
+      "date": "2026-09-25",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/FastLoad-v0.5.1/HSLR_FastLoad_plugin_20260925.zip",
+      "size": 24803,
+      "sha256": "9a187adae3156acd4b1d2ac7ea868ab7ba729e3c18bf60359def3d31468a0cca",
+      "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
+    },
+    {
+      "key": "QuickSave",
+      "guid": "hslr.quicksave",
+      "folder": "HslrQuickSave",
+      "title": "一鍵快速存讀",
+      "summary": "快速存讀跳過確認，讀檔選單多一格 Quick Save",
+      "version": "0.3.0",
+      "date": "2026-09-25",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/QuickSave-v0.3.0/HSLR_QuickSave_plugin_20260925.zip",
+      "size": 29719,
+      "sha256": "210ff5cabc871021966e9ba47ba4e768d2f833261120ed547f5e052e8c84050f",
+      "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
+    },
+    {
+      "key": "SkipLauncher",
+      "guid": "hslr.skiplauncher",
+      "folder": "HslrSkipLauncher",
+      "title": "跳過版本選擇",
+      "summary": "跳過啟動時的版本選擇視窗與公司 logo（在設定裡選直接進重製版或經典版，預設照樣詢問）",
+      "version": "1.1.0",
+      "date": "2026-09-25",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/SkipLauncher-v1.1.0/HSLR_SkipLauncher_plugin_20260925.zip",
+      "size": 20511,
+      "sha256": "5b5b0578bd038f8dc691cc05811185491e3f562ea4b4ed718fd0ae1a1fea6d60",
+      "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
+    },
+    {
+      "key": "DeckHover",
+      "guid": "hslr.deckhover",
+      "folder": "HslrDeckHover",
+      "title": "排組牌圖",
+      "summary": "排組畫面滑鼠移到清單上時顯示牌圖與敘述",
+      "version": "1.0.0",
+      "date": "2026-09-25",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/DeckHover-v1.0.0/HSLR_DeckHover_plugin_20260925.zip",
+      "size": 24344,
+      "sha256": "f87b6cffc28000a106121f4a601d680096635019f77d7365709a1d4bb6dd2eaf",
+      "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
+    },
+    {
+      "key": "ItemPreset",
+      "guid": "hslr.itempreset",
+      "folder": "HslrItemPreset",
+      "title": "道具組合",
+      "summary": "每個角色各自的道具組合，F7 全隊套用、F8 組合頁",
+      "version": "1.7.0",
+      "date": "2026-09-25",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/ItemPreset-v1.7.0/HSLR_ItemPreset_plugin_20260925.zip",
+      "size": 94901,
+      "sha256": "d22102fa65ca5797c3956134408de74589707e586fc8803550d1380781019961",
+      "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。",
+      "conflicts": [
+        {
+          "key": "StashLock",
+          "note": "兩個預設都用 F7／F8，一起裝要先在設定裡改掉其中一邊的按鍵"
+        },
+        {
+          "key": "StashSelect",
+          "note": "兩個預設都用 F7／F8，一起裝要先在設定裡改掉其中一邊的按鍵"
+        }
+      ]
+    },
+    {
+      "key": "StashLock",
+      "guid": "hslr.stashlock",
+      "folder": "HslrStashLock",
+      "title": "一鍵收納（鎖定排除版）",
+      "summary": "背包列上鎖的道具不收，其他全收進倉庫",
+      "version": "2.2.0",
+      "date": "2026-09-25",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/StashLock-v2.2.0/HSLR_StashLock_plugin_20260925.zip",
+      "size": 60944,
+      "sha256": "b66046306b349494947eaf3605d98825e196cdcaf0a9c440b4a2b7c9d829b414",
+      "notes": "第一次在 GitHub 發佈。",
+      "exclusive": "stash"
+    },
+    {
+      "key": "StashSelect",
+      "guid": "hslr.stashselect",
+      "folder": "HslrStashSelect",
+      "title": "一鍵收納（勾選收納版）",
+      "summary": "只把勾選的道具收進倉庫",
+      "version": "1.4.0",
+      "date": "2026-09-25",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/StashSelect-v1.4.0/HSLR_StashSelect_plugin_20260925.zip",
+      "size": 70895,
+      "sha256": "5b3c4ee9b4a022a7d811148c6454c06ac9d3400c5445836f9cc7ee60ecf2aee0",
+      "notes": "第一次在 GitHub 發佈。",
+      "exclusive": "stash"
+    },
+    {
+      "key": "BulkTrade",
+      "guid": "hslr.bulktrade",
+      "folder": "HslrBulkTrade",
+      "title": "批量買賣",
+      "summary": "倉庫畫面直接販賣，商店買賣可選數量",
+      "version": "1.3.0",
+      "date": "2026-09-25",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/BulkTrade-v1.3.0/HSLR_BulkTrade_plugin_20260925.zip",
+      "size": 42204,
+      "sha256": "62f5dbe31727b07d3b5034ec7be3fc7d8c560109dd02bb30f62030a9f755710a",
+      "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
+    },
+    {
+      "key": "ImguiFix",
+      "guid": "hslr.imguifix",
+      "folder": "HslrImguiFix",
+      "title": "設定視窗修復",
+      "summary": "修好 F10 設定視窗（ConfigurationManager）在這款遊戲一片灰的問題；設定視窗本身在全套包裡",
+      "version": "0.3.0",
+      "date": "2026-09-25",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/ImguiFix-v0.3.0/HSLR_ImguiFix_plugin_20260925.zip",
+      "size": 29055,
+      "sha256": "bf7d59bd7780e285c2283a6bfe958c1c8979c91936b56d8b77262300379e761e",
+      "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
+    },
+    {
+      "key": "KeepAudio",
+      "guid": "hslr.keepaudio",
+      "folder": "HslrKeepAudio",
+      "title": "切出去不斷聲音",
+      "summary": "視窗失去焦點時音樂音效照放",
+      "version": "1.0.0",
+      "date": "2026-09-25",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/KeepAudio-v1.0.0/HSLR_KeepAudio_plugin_20260925.zip",
+      "size": 18177,
+      "sha256": "ca08e99f307716e7f93a7bc231ac277c16a22a52dd4f3366001cea01a898cc16",
+      "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
+    },
+    {
+      "key": "ModManager",
+      "guid": "hslr.modmanager",
+      "folder": "HslrModManager",
+      "title": "程式模組管理",
+      "summary": "主選單「創意工坊」→「程式模組」：直接在遊戲裡下載、更新、移除這些 mod（也會更新自己）",
+      "version": "1.0.0",
+      "date": "2026-09-25",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.0.0/HSLR_ModManager_plugin_20260925.zip",
+      "size": 58054,
+      "sha256": "295fd74ece313d3a3a4bf447a1f0416bbe338d545b1c6f4f1b7449f199a5bd5e",
+      "notes": "第一版：主選單「創意工坊」→「程式模組」，直接在遊戲裡下載、更新、移除 mod。"
+    }
+  ]
+}
