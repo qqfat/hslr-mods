@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T02:05:03+08:00",
+  "generated": "2026-09-25T02:05:27+08:00",
   "repo": "qqfat/hslr-mods",
   "mods": [
     {
@@ -158,5 +158,12 @@
       "sha256": "295fd74ece313d3a3a4bf447a1f0416bbe338d545b1c6f4f1b7449f199a5bd5e",
       "notes": "第一版：主選單「創意工坊」→「程式模組」，直接在遊戲裡下載、更新、移除 mod。"
     }
-  ]
+  ],
+  "full_pack": {
+    "file": "HSLR_Mods_BepInEx_20260925.zip",
+    "url": "https://github.com/qqfat/hslr-mods/releases/download/full-20260925/HSLR_Mods_BepInEx_20260925.zip",
+    "size": 39572914,
+    "sha256": "1f12ef8195594246054cfdc05a2a67e81121d179236a1471767be53803d12d5a",
+    "date": "2026-09-25"
+  }
 }
