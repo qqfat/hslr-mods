@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T02:05:27+08:00",
+  "generated": "2026-09-25T02:16:49+08:00",
   "repo": "qqfat/hslr-mods",
   "mods": [
     {
@@ -12,8 +12,8 @@
       "version": "0.5.1",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/FastLoad-v0.5.1/HSLR_FastLoad_plugin_20260925.zip",
-      "size": 24803,
-      "sha256": "9a187adae3156acd4b1d2ac7ea868ab7ba729e3c18bf60359def3d31468a0cca",
+      "size": 24648,
+      "sha256": "14ada20a9dd988b0a2a037dfe1f270ae9f16b050c3c8491ad849abb1bc3dbf19",
       "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
     },
     {
@@ -25,8 +25,8 @@
       "version": "0.3.0",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/QuickSave-v0.3.0/HSLR_QuickSave_plugin_20260925.zip",
-      "size": 29719,
-      "sha256": "210ff5cabc871021966e9ba47ba4e768d2f833261120ed547f5e052e8c84050f",
+      "size": 29641,
+      "sha256": "12d0e231b5a7f434c5be17b4031900e7c198b4db598d7a40c191f1682634f4ad",
       "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
     },
     {
@@ -38,8 +38,8 @@
       "version": "1.1.0",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/SkipLauncher-v1.1.0/HSLR_SkipLauncher_plugin_20260925.zip",
-      "size": 20511,
-      "sha256": "5b5b0578bd038f8dc691cc05811185491e3f562ea4b4ed718fd0ae1a1fea6d60",
+      "size": 20361,
+      "sha256": "2a9bb7f52faf2183a0ddde6a485180f47f0c639f2ea72a9a551b92a18a390732",
       "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
     },
     {
@@ -51,8 +51,8 @@
       "version": "1.0.0",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/DeckHover-v1.0.0/HSLR_DeckHover_plugin_20260925.zip",
-      "size": 24344,
-      "sha256": "f87b6cffc28000a106121f4a601d680096635019f77d7365709a1d4bb6dd2eaf",
+      "size": 24177,
+      "sha256": "894085d35c3e93bf1a3639d049b30c0f5f6ca3db24da35b708d9efafcc04083e",
       "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
     },
     {
@@ -64,8 +64,8 @@
       "version": "1.7.0",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/ItemPreset-v1.7.0/HSLR_ItemPreset_plugin_20260925.zip",
-      "size": 94901,
-      "sha256": "d22102fa65ca5797c3956134408de74589707e586fc8803550d1380781019961",
+      "size": 94761,
+      "sha256": "dc093ccbf8d7e58add07c8911d3bca99f48b6a82e8dc8dd1c07bf2b0124ffec7",
       "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。",
       "conflicts": [
         {
@@ -87,8 +87,8 @@
       "version": "2.2.0",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/StashLock-v2.2.0/HSLR_StashLock_plugin_20260925.zip",
-      "size": 60944,
-      "sha256": "b66046306b349494947eaf3605d98825e196cdcaf0a9c440b4a2b7c9d829b414",
+      "size": 60814,
+      "sha256": "570f476be601b210eee94e7f54a9df52cef9801ac3f505a8672248dbd49cdd1b",
       "notes": "第一次在 GitHub 發佈。",
       "exclusive": "stash"
     },
@@ -101,8 +101,8 @@
       "version": "1.4.0",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/StashSelect-v1.4.0/HSLR_StashSelect_plugin_20260925.zip",
-      "size": 70895,
-      "sha256": "5b3c4ee9b4a022a7d811148c6454c06ac9d3400c5445836f9cc7ee60ecf2aee0",
+      "size": 70743,
+      "sha256": "4a883154ce78fdeb7c55a5ca42914669d77c4ef4991310fffc221b08abb2b6a8",
       "notes": "第一次在 GitHub 發佈。",
       "exclusive": "stash"
     },
@@ -115,8 +115,8 @@
       "version": "1.3.0",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/BulkTrade-v1.3.0/HSLR_BulkTrade_plugin_20260925.zip",
-      "size": 42204,
-      "sha256": "62f5dbe31727b07d3b5034ec7be3fc7d8c560109dd02bb30f62030a9f755710a",
+      "size": 42054,
+      "sha256": "5e20effa7bb69fd32f26258c72374ed8cfc067605012fd565a4bf63fe05d1e4b",
       "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
     },
     {
@@ -128,8 +128,8 @@
       "version": "0.3.0",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/ImguiFix-v0.3.0/HSLR_ImguiFix_plugin_20260925.zip",
-      "size": 29055,
-      "sha256": "bf7d59bd7780e285c2283a6bfe958c1c8979c91936b56d8b77262300379e761e",
+      "size": 28912,
+      "sha256": "020e1ea49fbe91ead8b31b1a83a421588d83dcd6b6892e3f27367a8da56d51d0",
       "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
     },
     {
@@ -141,8 +141,8 @@
       "version": "1.0.0",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/KeepAudio-v1.0.0/HSLR_KeepAudio_plugin_20260925.zip",
-      "size": 18177,
-      "sha256": "ca08e99f307716e7f93a7bc231ac277c16a22a52dd4f3366001cea01a898cc16",
+      "size": 18030,
+      "sha256": "6d2054c54b0b15e143a9fae4addcbd4c70114024ae923f7801087b4b1872b4da",
       "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
     },
     {
@@ -154,8 +154,8 @@
       "version": "1.0.0",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.0.0/HSLR_ModManager_plugin_20260925.zip",
-      "size": 58054,
-      "sha256": "295fd74ece313d3a3a4bf447a1f0416bbe338d545b1c6f4f1b7449f199a5bd5e",
+      "size": 57939,
+      "sha256": "29c55b02c1a829df3c7781600e742a69806e102b04d88eda65e2508cd6f41bc2",
       "notes": "第一版：主選單「創意工坊」→「程式模組」，直接在遊戲裡下載、更新、移除 mod。"
     }
   ],
