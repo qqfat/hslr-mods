@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T02:17:02+08:00",
+  "generated": "2026-09-25T15:21:51+08:00",
   "repo": "qqfat/hslr-mods",
   "mods": [
     {
@@ -120,17 +120,40 @@
       "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
     },
     {
+      "key": "ConfigurationManager",
+      "guid": "com.bepis.bepinex.configurationmanager",
+      "folder": "ConfigurationManager",
+      "title": "設定視窗",
+      "summary": "按 F10 打開遊戲內設定視窗，各個 mod 的設定都能在遊戲裡改；要搭配「設定視窗修復」才顯示得出來（別人做的開源 mod：BepInEx.ConfigurationManager v19.0，LGPL-3.0，github.com/BepInEx/BepInEx.ConfigurationManager）",
+      "version": "19.0",
+      "date": "2026-09-25",
+      "url": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v19.0/BepInEx.ConfigurationManager_IL2CPP_v19.0.zip",
+      "size": 69810,
+      "sha256": "3ea26a2c354a1d960beca4c61a397c72a1641cb5872f6f89e7d972e15d8cfb29",
+      "notes": "別人做的開源 mod（BepInEx.ConfigurationManager v19.0），直接從官方 GitHub 下載。按 F10 打開遊戲內設定視窗；第一次安裝會放好 F10 的設定（它預設的 F1 會撞遊戲的快速存檔）。要搭配「設定視窗修復」才顯示得出來。",
+      "requires": [
+        "ImguiFix"
+      ],
+      "config": {
+        "file": "com.bepis.bepinex.configurationmanager.cfg",
+        "initial": "## Settings file was created by plugin Configuration Manager v19.0.0\n## Plugin GUID: com.bepis.bepinex.configurationmanager\n\n[Filtering]\n\n# Setting type: Boolean\n# Default value: false\nShow advanced = false\n\n# Setting type: Boolean\n# Default value: true\nShow keybinds = true\n\n# Setting type: Boolean\n# Default value: true\nShow settings = true\n\n[General]\n\n## The shortcut used to toggle the config manager window on and off.\n## The key can be overridden by a game-specific plugin if necessary, in that case this setting is ignored.\n# Setting type: KeyboardShortcut\n# Default value: F1\nShow config manager = F10\n\n## Show section title for plugins with only one section\n# Setting type: Boolean\n# Default value: false\nHide single sections = false\n\n## If set to true plugins will be collapsed when opening the configuration manager window\n# Setting type: Boolean\n# Default value: true\nPlugin collapsed default = false\n"
+      }
+    },
+    {
       "key": "ImguiFix",
       "guid": "hslr.imguifix",
       "folder": "HslrImguiFix",
       "title": "設定視窗修復",
-      "summary": "修好 F10 設定視窗（ConfigurationManager）在這款遊戲一片灰的問題；設定視窗本身在全套包裡",
+      "summary": "修好 F10 設定視窗（ConfigurationManager）在這款遊戲一片灰的問題；要搭配「設定視窗」一起裝",
       "version": "0.3.0",
       "date": "2026-09-25",
       "url": "https://github.com/qqfat/hslr-mods/releases/download/ImguiFix-v0.3.0/HSLR_ImguiFix_plugin_20260925.zip",
       "size": 28912,
       "sha256": "020e1ea49fbe91ead8b31b1a83a421588d83dcd6b6892e3f27367a8da56d51d0",
-      "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
+      "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。",
+      "requires": [
+        "ConfigurationManager"
+      ]
     },
     {
       "key": "KeepAudio",
@@ -151,12 +174,19 @@
       "folder": "HslrModManager",
       "title": "程式模組管理",
       "summary": "主選單「創意工坊」→「程式模組」：直接在遊戲裡下載、更新、移除這些 mod（也會更新自己）",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "date": "2026-09-25",
-      "url": "https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.0.0/HSLR_ModManager_plugin_20260925.zip",
-      "size": 57939,
-      "sha256": "29c55b02c1a829df3c7781600e742a69806e102b04d88eda65e2508cd6f41bc2",
-      "notes": "第一版：主選單「創意工坊」→「程式模組」，直接在遊戲裡下載、更新、移除 mod。"
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.1.0/HSLR_ModManager_plugin_20260925.zip",
+      "size": 70992,
+      "sha256": "0ecdce3516d0d43a4dccfad6feb5e607bbdb4da594491a86b69eefb5f7e9d4d1",
+      "notes": "已安裝的 mod 左邊多了開關：暫時不用就關掉，檔案留著，要用時打開就好，不用重新下載。一鍵收納兩版可以都裝著，用開關切換。\n關閉程式模組頁時，如果有要重開遊戲才生效的變更，會列出安裝、更新、移除了幾個，問要不要馬上重開（幾秒後由 Steam 自動開起來）。\n清單加入「設定視窗」（F10 遊戲內設定），安裝時會問要不要一起裝「設定視窗修復」。\n修正 mod 一多、按鈕上的字就不見的問題。",
+      "history": [
+        {
+          "version": "1.0.0",
+          "date": "2026-09-25",
+          "notes": "第一版：主選單「創意工坊」→「程式模組」，直接在遊戲裡下載、更新、移除 mod。"
+        }
+      ]
     }
   ],
   "full_pack": {
