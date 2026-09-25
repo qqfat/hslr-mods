@@ -12,7 +12,7 @@
 ## 之後的更新
 
 主選單「創意工坊」→「程式模組」：每個 MOD 都可以安裝、更新、移除，也能用開關暫時停用（不用重新下載），**重開遊戲後生效**。
-有新版本時主選單會提示一次。設定檔（`BepInEx\config`）與存檔裡的 MOD 資料都不會被動到。
+有新版本時，主選單「創意工坊」上方會顯示有幾個 MOD 可以更新（點它直接進清單）。設定檔（`BepInEx\config`）與存檔裡的 MOD 資料都不會被動到。
 
 ## MOD 清單
 
@@ -29,7 +29,7 @@
 | 設定視窗 | [19.0](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v19.0/BepInEx.ConfigurationManager_IL2CPP_v19.0.zip) | 2026-09-25 | 按 F10 打開遊戲內設定視窗，各個 mod 的設定都能在遊戲裡改；要搭配「設定視窗修復」才顯示得出來（別人做的開源 mod：BepInEx.ConfigurationManager v19.0，LGPL-3.0，github.com/BepInEx/BepInEx.ConfigurationManager） |
 | 設定視窗修復 | [0.3.0](https://github.com/qqfat/hslr-mods/releases/download/ImguiFix-v0.3.0/HSLR_ImguiFix_plugin_20260925.zip) | 2026-09-25 | 修好 F10 設定視窗（ConfigurationManager）在這款遊戲一片灰的問題；要搭配「設定視窗」一起裝 |
 | 切出去不斷聲音 | [1.0.0](https://github.com/qqfat/hslr-mods/releases/download/KeepAudio-v1.0.0/HSLR_KeepAudio_plugin_20260925.zip) | 2026-09-25 | 視窗失去焦點時音樂音效照放 |
-| 程式模組管理 | [1.1.0](https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.1.0/HSLR_ModManager_plugin_20260925.zip) | 2026-09-25 | 主選單「創意工坊」→「程式模組」：直接在遊戲裡下載、更新、移除這些 mod（也會更新自己） |
+| 程式模組管理 | [1.2.0](https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.2.0/HSLR_ModManager_plugin_20260925.zip) | 2026-09-25 | 主選單「創意工坊」→「程式模組」：直接在遊戲裡下載、更新、移除這些 mod（也會更新自己） |
 
 注意：
 
