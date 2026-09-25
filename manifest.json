@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T16:11:30+08:00",
+  "generated": "2026-09-25T21:46:28+08:00",
   "repo": "qqfat/hslr-mods",
   "mods": [
     {
@@ -174,13 +174,18 @@
       "folder": "HslrModManager",
       "title": "程式模組管理",
       "summary": "主選單「創意工坊」→「程式模組」：直接在遊戲裡下載、更新、移除這些 mod（也會更新自己）",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "date": "2026-09-25",
-      "url": "https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.2.0/HSLR_ModManager_plugin_20260925.zip",
-      "size": 71723,
-      "sha256": "03c44144f74d99b1abeefce7480a985476539ce9665fe171127569cb1709a6cd",
-      "notes": "主選單「創意工坊」上方會一直顯示有幾個 mod 可以更新，點它直接進清單頁；有裝好但要重開遊戲才生效的變更時也會提醒。\n拿掉開遊戲時跳一次的新版提示視窗（它會在主選單還在讀取時就跳出來、一下就被關掉）。",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.3.0/HSLR_ModManager_plugin_20260925.zip",
+      "size": 79109,
+      "sha256": "0265f001d3f0ecd57b409e137c776cad9def9bdd73cf939556a4dc4c51950ceb",
+      "notes": "安裝、更新、移除和開關改成先選好，按右下角「套用變更」才會真的下載、換檔：選了的顯示綠字「待安裝」「待移除」等，可以取消，也可以按「放棄變更」全部不要。\n沒套用就關閉清單頁時會問要不要套用；套用完問要不要重開遊戲。",
       "history": [
+        {
+          "version": "1.2.0",
+          "date": "2026-09-25",
+          "notes": "主選單「創意工坊」上方會一直顯示有幾個 mod 可以更新，點它直接進清單頁；有裝好但要重開遊戲才生效的變更時也會提醒。\n拿掉開遊戲時跳一次的新版提示視窗（它會在主選單還在讀取時就跳出來、一下就被關掉）。"
+        },
         {
           "version": "1.1.0",
           "date": "2026-09-25",
