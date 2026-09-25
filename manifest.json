@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T15:27:18+08:00",
+  "generated": "2026-09-25T16:10:30+08:00",
   "repo": "qqfat/hslr-mods",
   "mods": [
     {
@@ -174,13 +174,18 @@
       "folder": "HslrModManager",
       "title": "程式模組管理",
       "summary": "主選單「創意工坊」→「程式模組」：直接在遊戲裡下載、更新、移除這些 mod（也會更新自己）",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "date": "2026-09-25",
-      "url": "https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.1.0/HSLR_ModManager_plugin_20260925.zip",
-      "size": 70992,
-      "sha256": "0ecdce3516d0d43a4dccfad6feb5e607bbdb4da594491a86b69eefb5f7e9d4d1",
-      "notes": "已安裝的 mod 左邊多了開關：暫時不用就關掉，檔案留著，要用時打開就好，不用重新下載。一鍵收納兩版可以都裝著，用開關切換。\n關閉程式模組頁時，如果有要重開遊戲才生效的變更，會列出安裝、更新、移除了幾個，問要不要馬上重開（幾秒後由 Steam 自動開起來）。\n清單加入「設定視窗」（F10 遊戲內設定），安裝時會問要不要一起裝「設定視窗修復」。\n修正 mod 一多、按鈕上的字就不見的問題。",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.2.0/HSLR_ModManager_plugin_20260925.zip",
+      "size": 71723,
+      "sha256": "03c44144f74d99b1abeefce7480a985476539ce9665fe171127569cb1709a6cd",
+      "notes": "主選單「創意工坊」上方會一直顯示有幾個 mod 可以更新，點它直接進清單頁；有裝好但要重開遊戲才生效的變更時也會提醒。\n拿掉開遊戲時跳一次的新版提示視窗（它會在主選單還在讀取時就跳出來、一下就被關掉）。",
       "history": [
+        {
+          "version": "1.1.0",
+          "date": "2026-09-25",
+          "notes": "已安裝的 mod 左邊多了開關：暫時不用就關掉，檔案留著，要用時打開就好，不用重新下載。一鍵收納兩版可以都裝著，用開關切換。\n關閉程式模組頁時，如果有要重開遊戲才生效的變更，會列出安裝、更新、移除了幾個，問要不要馬上重開（幾秒後由 Steam 自動開起來）。\n清單加入「設定視窗」（F10 遊戲內設定），安裝時會問要不要一起裝「設定視窗修復」。\n修正 mod 一多、按鈕上的字就不見的問題。"
+        },
         {
           "version": "1.0.0",
           "date": "2026-09-25",
