@@ -26,14 +26,16 @@
 | 一鍵收納（鎖定排除版） | [2.2.0](https://github.com/qqfat/hslr-mods/releases/download/StashLock-v2.2.0/HSLR_StashLock_plugin_20260925.zip) | 2026-09-25 | 背包列上鎖的道具不收，其他全收進倉庫 |
 | 一鍵收納（勾選收納版） | [1.4.0](https://github.com/qqfat/hslr-mods/releases/download/StashSelect-v1.4.0/HSLR_StashSelect_plugin_20260925.zip) | 2026-09-25 | 只把勾選的道具收進倉庫 |
 | 批量買賣 | [1.3.0](https://github.com/qqfat/hslr-mods/releases/download/BulkTrade-v1.3.0/HSLR_BulkTrade_plugin_20260925.zip) | 2026-09-25 | 倉庫畫面直接販賣，商店買賣可選數量 |
-| 設定視窗修復 | [0.3.0](https://github.com/qqfat/hslr-mods/releases/download/ImguiFix-v0.3.0/HSLR_ImguiFix_plugin_20260925.zip) | 2026-09-25 | 修好 F10 設定視窗（ConfigurationManager）在這款遊戲一片灰的問題；設定視窗本身在全套包裡 |
+| 設定視窗 | [19.0](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v19.0/BepInEx.ConfigurationManager_IL2CPP_v19.0.zip) | 2026-09-25 | 按 F10 打開遊戲內設定視窗，各個 mod 的設定都能在遊戲裡改；要搭配「設定視窗修復」才顯示得出來（別人做的開源 mod：BepInEx.ConfigurationManager v19.0，LGPL-3.0，github.com/BepInEx/BepInEx.ConfigurationManager） |
+| 設定視窗修復 | [0.3.0](https://github.com/qqfat/hslr-mods/releases/download/ImguiFix-v0.3.0/HSLR_ImguiFix_plugin_20260925.zip) | 2026-09-25 | 修好 F10 設定視窗（ConfigurationManager）在這款遊戲一片灰的問題；要搭配「設定視窗」一起裝 |
 | 切出去不斷聲音 | [1.0.0](https://github.com/qqfat/hslr-mods/releases/download/KeepAudio-v1.0.0/HSLR_KeepAudio_plugin_20260925.zip) | 2026-09-25 | 視窗失去焦點時音樂音效照放 |
-| 程式模組管理 | [1.0.0](https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.0.0/HSLR_ModManager_plugin_20260925.zip) | 2026-09-25 | 主選單「創意工坊」→「程式模組」：直接在遊戲裡下載、更新、移除這些 mod（也會更新自己） |
+| 程式模組管理 | [1.1.0](https://github.com/qqfat/hslr-mods/releases/download/ModManager-v1.1.0/HSLR_ModManager_plugin_20260925.zip) | 2026-09-25 | 主選單「創意工坊」→「程式模組」：直接在遊戲裡下載、更新、移除這些 mod（也會更新自己） |
 
 注意：
 
 - 「道具組合」＋「一鍵收納（鎖定排除版）」或「一鍵收納（勾選收納版）」：兩個預設都用 F7／F8，一起裝要先在設定裡改掉其中一邊的按鍵
 - 「一鍵收納（鎖定排除版）」跟「一鍵收納（勾選收納版）」只能裝一個。
+- 「設定視窗」跟「設定視窗修復」要一起裝才有作用（在遊戲裡裝其中一個時會問要不要一起裝）。
 
 ## 手動安裝單一 MOD
 
