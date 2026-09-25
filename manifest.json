@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T16:10:30+08:00",
+  "generated": "2026-09-25T16:11:30+08:00",
   "repo": "qqfat/hslr-mods",
   "mods": [
     {
@@ -197,8 +197,8 @@
   "full_pack": {
     "file": "HSLR_Mods_BepInEx_20260925.zip",
     "url": "https://github.com/qqfat/hslr-mods/releases/download/full-20260925/HSLR_Mods_BepInEx_20260925.zip",
-    "size": 39590229,
-    "sha256": "fd6187c0ef6c1f25451f984b23b08fa1d21d2e79de8463c2c075892ffbc0e63e",
+    "size": 39590981,
+    "sha256": "4e0f77c9394e60271d5d2508e9e898233a9b2ee8df8a3f3411c3da2830969d62",
     "date": "2026-09-25"
   }
 }
