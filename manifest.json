@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-25T21:49:00+08:00",
+  "generated": "2026-09-28T22:32:46+08:00",
   "repo": "qqfat/hslr-mods",
   "mods": [
     {
@@ -118,6 +118,19 @@
       "size": 42054,
       "sha256": "5e20effa7bb69fd32f26258c72374ed8cfc067605012fd565a4bf63fe05d1e4b",
       "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
+    },
+    {
+      "key": "HideDialogue",
+      "guid": "hslr.hidedialogue",
+      "folder": "HslrHideDialogue",
+      "title": "隱藏對話框",
+      "summary": "對話中按滑鼠右鍵（或 H）隱藏對話框，看完整的背景與立繪；藏著時按任何鍵都只叫回對話框",
+      "version": "1.3.0",
+      "date": "2026-09-28",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/HideDialogue-v1.3.0/HSLR_HideDialogue_plugin_20260928.zip",
+      "size": 26829,
+      "sha256": "4b91d897ca54395b7c5d4c08ef1f9354ffc19da86f7b3a4a216f6e4a542fb083",
+      "notes": "第一版：對話中按滑鼠右鍵（或 H）隱藏對話框；藏著時按任何鍵都只把對話框叫回來，並關掉自動播放與快轉；下方按鍵提示多一格「隱藏對話」"
     },
     {
       "key": "ConfigurationManager",
