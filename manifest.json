@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T22:32:46+08:00",
+  "generated": "2026-09-28T23:04:44+08:00",
   "repo": "qqfat/hslr-mods",
   "mods": [
     {
@@ -61,12 +61,19 @@
       "folder": "HslrItemPreset",
       "title": "道具組合",
       "summary": "每個角色各自的道具組合，F7 全隊套用、F8 組合頁",
-      "version": "1.7.0",
-      "date": "2026-09-25",
-      "url": "https://github.com/qqfat/hslr-mods/releases/download/ItemPreset-v1.7.0/HSLR_ItemPreset_plugin_20260925.zip",
-      "size": 94761,
-      "sha256": "dc093ccbf8d7e58add07c8911d3bca99f48b6a82e8dc8dd1c07bf2b0124ffec7",
-      "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。",
+      "version": "1.7.1",
+      "date": "2026-09-28",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/ItemPreset-v1.7.1/HSLR_ItemPreset_plugin_20260928.zip",
+      "size": 96638,
+      "sha256": "06222c8ca8504cfb3b3d21e433c372274136ac56909cfe8eb18932aca0d927f6",
+      "notes": "修正：跟一鍵收納（或其他跟著存檔走的 mod）同時安裝時，遊戲一存檔就閃退。現在這些 mod 共用同一個存檔 hook；同時裝的話請全部更新到新版。",
+      "history": [
+        {
+          "version": "1.7.0",
+          "date": "2026-09-25",
+          "notes": "第一次在 GitHub 發佈，跟 20260925 全套包裡的相同。"
+        }
+      ],
       "conflicts": [
         {
           "key": "StashLock",
@@ -84,12 +91,19 @@
       "folder": "HslrStashLock",
       "title": "一鍵收納（鎖定排除版）",
       "summary": "背包列上鎖的道具不收，其他全收進倉庫",
-      "version": "2.2.0",
-      "date": "2026-09-25",
-      "url": "https://github.com/qqfat/hslr-mods/releases/download/StashLock-v2.2.0/HSLR_StashLock_plugin_20260925.zip",
-      "size": 60814,
-      "sha256": "570f476be601b210eee94e7f54a9df52cef9801ac3f505a8672248dbd49cdd1b",
-      "notes": "第一次在 GitHub 發佈。",
+      "version": "2.2.1",
+      "date": "2026-09-28",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/StashLock-v2.2.1/HSLR_StashLock_plugin_20260928.zip",
+      "size": 62793,
+      "sha256": "12b4900ae2b33813b605443346d8d86b5ccf1a9c5cc45d5074ce796c9ad2654b",
+      "notes": "修正：跟道具組合（或其他跟著存檔走的 mod）同時安裝時，遊戲一存檔就閃退。現在這些 mod 共用同一個存檔 hook；同時裝的話請全部更新到新版。",
+      "history": [
+        {
+          "version": "2.2.0",
+          "date": "2026-09-25",
+          "notes": "第一次在 GitHub 發佈。"
+        }
+      ],
       "exclusive": "stash"
     },
     {
@@ -98,12 +112,19 @@
       "folder": "HslrStashSelect",
       "title": "一鍵收納（勾選收納版）",
       "summary": "只把勾選的道具收進倉庫",
-      "version": "1.4.0",
-      "date": "2026-09-25",
-      "url": "https://github.com/qqfat/hslr-mods/releases/download/StashSelect-v1.4.0/HSLR_StashSelect_plugin_20260925.zip",
-      "size": 70743,
-      "sha256": "4a883154ce78fdeb7c55a5ca42914669d77c4ef4991310fffc221b08abb2b6a8",
-      "notes": "第一次在 GitHub 發佈。",
+      "version": "1.4.1",
+      "date": "2026-09-28",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/StashSelect-v1.4.1/HSLR_StashSelect_plugin_20260928.zip",
+      "size": 72731,
+      "sha256": "3db507d4e49a528aca89268fb0cd8cfa837f58c31da7e06c0a9613b4c649fc57",
+      "notes": "修正：跟道具組合（或其他跟著存檔走的 mod）同時安裝時，遊戲一存檔就閃退。現在這些 mod 共用同一個存檔 hook；同時裝的話請全部更新到新版。",
+      "history": [
+        {
+          "version": "1.4.0",
+          "date": "2026-09-25",
+          "notes": "第一次在 GitHub 發佈。"
+        }
+      ],
       "exclusive": "stash"
     },
     {
