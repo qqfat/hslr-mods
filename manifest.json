@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-28T23:04:44+08:00",
+  "generated": "2026-09-29T00:17:22+08:00",
   "repo": "qqfat/hslr-mods",
   "mods": [
     {
@@ -152,6 +152,19 @@
       "size": 26829,
       "sha256": "4b91d897ca54395b7c5d4c08ef1f9354ffc19da86f7b3a4a216f6e4a542fb083",
       "notes": "第一版：對話中按滑鼠右鍵（或 H）隱藏對話框；藏著時按任何鍵都只把對話框叫回來，並關掉自動播放與快轉；下方按鍵提示多一格「隱藏對話」"
+    },
+    {
+      "key": "ChrLook",
+      "guid": "hslr.chrlook",
+      "folder": "HslrChrLook",
+      "title": "角色造型",
+      "summary": "轉職後可以在角色狀態畫面換回以前職業的造型（立繪、頭像、地圖與戰鬥小人、特寫與攻擊音效），能力、技能、職業都不變；選擇跟著存檔",
+      "version": "1.0.0",
+      "date": "2026-09-29",
+      "url": "https://github.com/qqfat/hslr-mods/releases/download/ChrLook-v1.0.0/HSLR_ChrLook_plugin_20260929.zip",
+      "size": 44914,
+      "sha256": "90509058b9200eb6fafa28b14f61bcfc03be3f3769383d5354a85d6858366d29",
+      "notes": "新 mod：轉職後可以在角色狀態畫面換回以前職業的造型（立繪、頭像、地圖與戰鬥小人、特寫與攻擊音效），能力、技能、職業都不變；選擇跟著存檔。"
     },
     {
       "key": "ConfigurationManager",
