@@ -27,6 +27,7 @@
 | 一鍵收納（勾選收納版） | [1.4.1](https://github.com/qqfat/hslr-mods/releases/download/StashSelect-v1.4.1/HSLR_StashSelect_plugin_20260928.zip) | 2026-09-28 | 只把勾選的道具收進倉庫 |
 | 批量買賣 | [1.3.0](https://github.com/qqfat/hslr-mods/releases/download/BulkTrade-v1.3.0/HSLR_BulkTrade_plugin_20260925.zip) | 2026-09-25 | 倉庫畫面直接販賣，商店買賣可選數量 |
 | 隱藏對話框 | [1.3.0](https://github.com/qqfat/hslr-mods/releases/download/HideDialogue-v1.3.0/HSLR_HideDialogue_plugin_20260928.zip) | 2026-09-28 | 對話中按滑鼠右鍵（或 H）隱藏對話框，看完整的背景與立繪；藏著時按任何鍵都只叫回對話框 |
+| 角色造型 | [1.0.0](https://github.com/qqfat/hslr-mods/releases/download/ChrLook-v1.0.0/HSLR_ChrLook_plugin_20260929.zip) | 2026-09-29 | 轉職後可以在角色狀態畫面換回以前職業的造型（立繪、頭像、地圖與戰鬥小人、特寫與攻擊音效），能力、技能、職業都不變；選擇跟著存檔 |
 | 設定視窗 | [19.0](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v19.0/BepInEx.ConfigurationManager_IL2CPP_v19.0.zip) | 2026-09-25 | 按 F10 打開遊戲內設定視窗，各個 mod 的設定都能在遊戲裡改；要搭配「設定視窗修復」才顯示得出來（別人做的開源 mod：BepInEx.ConfigurationManager v19.0，LGPL-3.0，github.com/BepInEx/BepInEx.ConfigurationManager） |
 | 設定視窗修復 | [0.3.0](https://github.com/qqfat/hslr-mods/releases/download/ImguiFix-v0.3.0/HSLR_ImguiFix_plugin_20260925.zip) | 2026-09-25 | 修好 F10 設定視窗（ConfigurationManager）在這款遊戲一片灰的問題；要搭配「設定視窗」一起裝 |
 | 切出去不斷聲音 | [1.0.0](https://github.com/qqfat/hslr-mods/releases/download/KeepAudio-v1.0.0/HSLR_KeepAudio_plugin_20260925.zip) | 2026-09-25 | 視窗失去焦點時音樂音效照放 |
