@@ -22,9 +22,9 @@
 | 一鍵快速存讀 | [0.3.0](https://github.com/qqfat/hslr-mods/releases/download/QuickSave-v0.3.0/HSLR_QuickSave_plugin_20260925.zip) | 2026-09-25 | 快速存讀跳過確認，讀檔選單多一格 Quick Save |
 | 跳過版本選擇 | [1.1.0](https://github.com/qqfat/hslr-mods/releases/download/SkipLauncher-v1.1.0/HSLR_SkipLauncher_plugin_20260925.zip) | 2026-09-25 | 跳過啟動時的版本選擇視窗與公司 logo（在設定裡選直接進重製版或經典版，預設照樣詢問） |
 | 排組牌圖 | [1.0.0](https://github.com/qqfat/hslr-mods/releases/download/DeckHover-v1.0.0/HSLR_DeckHover_plugin_20260925.zip) | 2026-09-25 | 排組畫面滑鼠移到清單上時顯示牌圖與敘述 |
-| 道具組合 | [1.7.0](https://github.com/qqfat/hslr-mods/releases/download/ItemPreset-v1.7.0/HSLR_ItemPreset_plugin_20260925.zip) | 2026-09-25 | 每個角色各自的道具組合，F7 全隊套用、F8 組合頁 |
-| 一鍵收納（鎖定排除版） | [2.2.0](https://github.com/qqfat/hslr-mods/releases/download/StashLock-v2.2.0/HSLR_StashLock_plugin_20260925.zip) | 2026-09-25 | 背包列上鎖的道具不收，其他全收進倉庫 |
-| 一鍵收納（勾選收納版） | [1.4.0](https://github.com/qqfat/hslr-mods/releases/download/StashSelect-v1.4.0/HSLR_StashSelect_plugin_20260925.zip) | 2026-09-25 | 只把勾選的道具收進倉庫 |
+| 道具組合 | [1.7.1](https://github.com/qqfat/hslr-mods/releases/download/ItemPreset-v1.7.1/HSLR_ItemPreset_plugin_20260928.zip) | 2026-09-28 | 每個角色各自的道具組合，F7 全隊套用、F8 組合頁 |
+| 一鍵收納（鎖定排除版） | [2.2.1](https://github.com/qqfat/hslr-mods/releases/download/StashLock-v2.2.1/HSLR_StashLock_plugin_20260928.zip) | 2026-09-28 | 背包列上鎖的道具不收，其他全收進倉庫 |
+| 一鍵收納（勾選收納版） | [1.4.1](https://github.com/qqfat/hslr-mods/releases/download/StashSelect-v1.4.1/HSLR_StashSelect_plugin_20260928.zip) | 2026-09-28 | 只把勾選的道具收進倉庫 |
 | 批量買賣 | [1.3.0](https://github.com/qqfat/hslr-mods/releases/download/BulkTrade-v1.3.0/HSLR_BulkTrade_plugin_20260925.zip) | 2026-09-25 | 倉庫畫面直接販賣，商店買賣可選數量 |
 | 隱藏對話框 | [1.3.0](https://github.com/qqfat/hslr-mods/releases/download/HideDialogue-v1.3.0/HSLR_HideDialogue_plugin_20260928.zip) | 2026-09-28 | 對話中按滑鼠右鍵（或 H）隱藏對話框，看完整的背景與立繪；藏著時按任何鍵都只叫回對話框 |
 | 設定視窗 | [19.0](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v19.0/BepInEx.ConfigurationManager_IL2CPP_v19.0.zip) | 2026-09-25 | 按 F10 打開遊戲內設定視窗，各個 mod 的設定都能在遊戲裡改；要搭配「設定視窗修復」才顯示得出來（別人做的開源 mod：BepInEx.ConfigurationManager v19.0，LGPL-3.0，github.com/BepInEx/BepInEx.ConfigurationManager） |
